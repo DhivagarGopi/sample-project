@@ -1,0 +1,165 @@
+.headin{
+    background-image: url(inner-heading-bg\ \(1\).jpg);
+    padding: 80px;
+    
+}
+.headin h1{
+    color: white;
+    text-align: center;
+}
+.callsw .ccc{
+    color: yellow;
+}
+.top{
+    background: red;
+}
+.top p{
+text-align: center;
+color: white;
+}
+.callsw li{
+display: inline-block ;
+
+}
+.callsw .col1{
+    color: white;
+}
+.home li{
+    display: inline-block;
+    padding: 15px;
+}
+.pics1{
+    margin-top: 20px;
+
+}
+/* .pics1 h4{
+    background: #000;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.pics h4{
+    background: #000;
+    color: white;
+    text-align: center;
+    padding: 20px;
+} */
+.tradin{
+    margin-top: 40px;
+}
+.cont{
+    margin-top: 30px;
+}
+.par{
+    margin-top: 20px;
+}
+/* .pics1 h5{
+    background: #000;
+    color: white;
+    padding: 20px;
+}
+.pics h5{
+    background: #000;
+    color: white;
+    padding: 20px;
+} */
+.bottom{
+    background: rgb(110, 108, 108);
+}
+.bottom p{
+    margin-top: 20px;
+    color: white;
+
+}
+.links{
+    color: white;
+    margin-top: 30px;
+}
+.contact{
+    
+    margin-top: 30px;
+}
+.contact i{
+    color: rgb(150, 140, 140);
+    
+}
+.icons li{
+    display: inline-block;
+ 
+    padding: 5px;
+}
+.icons .ico{
+    background: white;
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 7px;
+}
+.contact h4{
+    color: white;
+}
+
+.google iframe{
+    height: 200px;
+    width: 320px;
+}
+.map{
+    margin-top: 30px;
+}
+.map h4{
+    color: white;
+}
+.design{
+    background: red;
+    color: white;
+    text-align: center;
+    size: 2px;
+}
+
+
+.rubber-pro{
+    position: relative;
+    overflow: hidden;
+    transition: all .5s ease-in-out;
+}
+.rubber-head{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    padding: 10px 20px;
+    text-align: left;
+    background: rgba(0,0,0,.7);
+    bottom: -80%;
+    border: 1px solid #000;
+    transition: all .5s ease-in-out;
+    color: #fff;
+}
+.rubber-pro:hover .rubber-head{
+    bottom: 0%;
+    transition: all .5s ease-in-out;
+
+}
+.contracting{
+    position: relative;
+    overflow: hidden;
+    transition: all .3s ease-in-out;
+}
+.contracting .cons{
+    position: absolute;
+    height: 100%;
+    width: 98%;
+    text-align: center;
+    background: rgba(0,0,0,.7);
+    border: 1px solid black;
+    color: white;
+    transition: all .3s ease-in-out;
+    bottom: -80%;
+    padding: 10px 20px;
+
+}
+.contracting:hover .cons{
+    transition: all .3s ease-in-out;
+    bottom: 0%;
+}
+.bottom{
+    margin-top: 30px;
+}

@@ -1,0 +1,163 @@
+.headin{
+    background-image: url(inner-heading-bg\ \(1\).jpg);
+    padding: 80px;
+    
+}
+.headin h1{
+    color: white;
+    text-align: center;
+}
+.callsw .ccc{
+    color: yellow;
+}
+.top{
+    background: red;
+}
+.top p{
+text-align: center;
+color: white;
+}
+.callsw li{
+display: inline-block ;
+
+}
+.callsw .col1{
+    color: white;
+}
+.home li{
+    display: inline-block;
+    padding: 15px;
+}
+.elev h6{
+    background: rgb(73, 11, 11);
+    color: white;
+    text-align: center;
+    padding: 13px;
+}
+.elev{
+    margin-top: 20px;
+}
+.serv{
+    margin-top: 20px;
+    background: rgb(235, 233, 233);
+    padding: 30px;
+    width: 100%;
+    margin-left: -10px;
+    margin-right: -20px
+}
+.cont h6{
+    background: rgb(73, 11, 11);
+    color: white;
+    text-align: center;
+    padding: 13px;
+
+}
+.main{
+    margin-top: 40px;
+    background: rgb(235, 233, 233);
+    padding: 30px;
+    width: 100%;
+    margin-left: -10px;
+    margin-right: -20px;
+}
+.repair{
+    margin-top: 40px;
+    background: rgb(235, 233, 233);
+    padding: 30px;
+    width: 100%;
+    margin-left: -10px;
+    margin-right: -20px;
+}
+.modern h6{
+    background: rgb(73, 11, 11);
+    color: white;
+    text-align: center;
+    padding: 13px;
+  
+}
+.tools h6{
+    background: rgb(73, 11, 11);
+    color: white;
+    text-align: center;
+    padding: 13px;
+
+}
+.parts{
+    margin-top: 40px;
+    background: rgb(235, 233, 233);
+    padding: 30px;
+    width: 100%;
+    margin-left: -10px;
+    margin-right: -20px;
+}
+.Safety{
+    margin-top: 20px;
+}
+.incharge{
+    margin-top: 40px;
+    background: rgb(235, 233, 233);
+    padding: 30px;
+    width: 100%;
+    margin-left: -10px;
+    margin-right: -20px; 
+}
+.electronic{
+    margin-top: 40px;
+    background: rgb(235, 233, 233);
+    padding: 30px;
+    width: 100%;
+    margin-left: -10px;
+    margin-right: -20px; 
+}
+
+.bottom{
+    background: rgb(110, 108, 108);
+}
+.bottom p{
+    margin-top: 20px;
+    color: white;
+
+}
+.links{
+    color: white;
+    margin-top: 30px;
+}
+.contact{
+    
+    margin-top: 30px;
+}
+.contact i{
+    color: rgb(150, 140, 140);
+    
+}
+.icons li{
+    display: inline-block;
+ 
+    padding: 5px;
+}
+.icons .ico{
+    background: white;
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 7px;
+}
+.contact h4{
+    color: white;
+}
+
+.google iframe{
+    height: 200px;
+    width: 320px;
+}
+.map{
+    margin-top: 30px;
+}
+.map h4{
+    color: white;
+}
+.design{
+    background: red;
+    color: white;
+    text-align: center;
+    size: 2px;
+}

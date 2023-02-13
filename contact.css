@@ -1,0 +1,127 @@
+.callsw .ccc{
+    color: yellow;
+}
+.top{
+    background: red;
+}
+.top p{
+text-align: center;
+color: white;
+}
+.callsw li{
+display: inline-block ;
+
+}
+.callsw .col1{
+    color: white;
+}
+.headin{
+    background-image: url(inner-heading-bg\ \(1\).jpg);
+    padding: 80px;
+    
+}
+.headin h1{
+    color: white;
+    text-align: center;
+}
+.home li{
+    display: inline-block;
+    padding: 15px;
+}
+.mapping iframe{
+    width: 100%;
+    height: 500px; ;
+}
+.mapping{
+    margin-top: 80px;
+}
+.four input{
+    width: 100%;
+}
+.four textarea{
+    width: 100%;
+}
+.fon li{
+display: inline-block;
+}
+.fon .ccc{
+    font-size: 70px;
+    color: rgb(133, 134, 134);
+    margin-left: -20px;
+    
+}
+
+.fon{
+    background: rgb(206, 206, 206);
+    margin-top: 30px;
+
+
+}
+.bottom{
+    background: rgb(110, 108, 108);
+}
+.bottom p{
+    margin-top: 20px;
+    color: white;
+
+}
+.links{
+    color: white;
+    margin-top: 30px;
+}
+.contact{
+    
+    margin-top: 30px;
+}
+.contact i{
+    color: rgb(150, 140, 140);
+    
+}
+.icons li{
+    display: inline-block;
+ 
+    padding: 5px;
+}
+.icons .ico{
+    background: white;
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 7px;
+}
+.contact h4{
+    color: white;
+}
+
+.google iframe{
+    height: 200px;
+    width: 320px;
+}
+.map{
+    margin-top: 30px;
+}
+.map h4{
+    color: white;
+}
+.design{
+    background: red;
+    color: white;
+    text-align: center;
+    size: 2px;
+}
+.fon p{
+    margin-top: -20px;
+}
+.four input{
+    padding: 10px;
+   
+}
+.files input{
+border: 1px solid black;
+margin-bottom: 20px;
+}
+.files .sub{
+    background: rgb(255, 174, 0);
+    width: 130px;
+    border: none;
+    color: aliceblue;
+}
